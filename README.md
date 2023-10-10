@@ -16,6 +16,7 @@
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
 - [HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion](https://github.com/sijieaaa/HypLiLoc)
 - [RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments](https://github.com/sijieaaa/RobustLoc)
+- [Image patch-matching with graph-based learning in street scenes](https://github.com/AI-IT-AVs/Landmark_patch_datasets)
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
 
