@@ -12,7 +12,7 @@
 ## Robustness
 - [On the Robustness of Graph Neural Diffusion to Topology Perturbations](https://github.com/zknus/Robustness-of-Graph-Neural-Diffusion)
 - [Stable Neural ODE With Lyapunov-Stable Equilibrium Points For Defending Against Adversarial Attacks](https://github.com/kangqiyu/SODEF)
-- [Error Correcting Neural Network](https://gitlab.com/songy0123/error-correcting-neural-network)
+- [Error-correcting output codes with ensemble diversity for robust learning in neural networks](https://gitlab.com/songy0123/error-correcting-neural-network)
 
 ## Perception
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
@@ -21,4 +21,7 @@
 - [Image Patch-Matching With Graph-Based Learning In Street Scenes](https://github.com/AI-IT-AVs/Landmark_patch_datasets)
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
+## Others
+- [Identifying infection sources and regions in large networks](https://github.com/wptay/infection-source)
+- [How to identify an infection source with limited observations](https://github.com/wptay/infection-source)
 
