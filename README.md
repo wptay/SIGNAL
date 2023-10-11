@@ -1,4 +1,4 @@
-# DASN Paper/Project Codes
+# Signal Intelligence and Graph Network Algorithms (SIGNAL) Paper/Project Codes
 
 ## Graph Neural Network
 - [Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks](https://github.com/amblee0306/JSGNN_Mixed_Space_GNN)
