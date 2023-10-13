@@ -2,7 +2,7 @@
 
 [SIGNAL Webpage](https://personal.ntu.edu.sg/wptay/index.html)
 
-## Graph Neural Network
+## Graph Neural Networks
 - [Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks](https://github.com/amblee0306/JSGNN_Mixed_Space_GNN)
 - [Graph Neural Convection-Diffusion With Heterophily](https://github.com/zknus/Graph-Diffusion-CDE)
 - [Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks](https://github.com/zknus/Hamiltonian-GNN)
@@ -10,6 +10,7 @@
 - [SGAT: Simplicial Graph Attention Network](https://github.com/amblee0306/Simplicial-Graph-Attention-Network)
 
 ## Robustness
+- [Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach](https://github.com/zknus/NeurIPS-2023-HANG-Robustness)
 - [On the Robustness of Graph Neural Diffusion to Topology Perturbations](https://github.com/zknus/Robustness-of-Graph-Neural-Diffusion)
 - [Stable Neural ODE With Lyapunov-Stable Equilibrium Points For Defending Against Adversarial Attacks](https://github.com/kangqiyu/SODEF)
 - [Error-correcting output codes with ensemble diversity for robust learning in neural networks](https://gitlab.com/songy0123/error-correcting-neural-network)
