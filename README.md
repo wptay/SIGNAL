@@ -13,7 +13,7 @@
 - [Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach](https://github.com/zknus/NeurIPS-2023-HANG-Robustness)
 - [On the Robustness of Graph Neural Diffusion to Topology Perturbations](https://github.com/zknus/Robustness-of-Graph-Neural-Diffusion)
 - [Stable Neural ODE With Lyapunov-Stable Equilibrium Points For Defending Against Adversarial Attacks](https://github.com/kangqiyu/SODEF)
-- [Error-correcting output codes with ensemble diversity for robust learning in neural networks](https://gitlab.com/songy0123/error-correcting-neural-network)
+- [Error-Correcting Output Codes With Ensemble Diversity For Robust Learning In Neural Networks](https://gitlab.com/songy0123/error-correcting-neural-network)
 
 ## Perception
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
@@ -23,6 +23,6 @@
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
 ## Others
-- [Identifying infection sources and regions in large networks](https://github.com/wptay/infection-source)
-- [How to identify an infection source with limited observations](https://github.com/wptay/infection-source)
+- [Identifying Infection Sources And Regions In Large Networks](https://github.com/wptay/infection-source)
+- [How To Identify An Infection Source With Limited Observations](https://github.com/wptay/infection-source)
 
