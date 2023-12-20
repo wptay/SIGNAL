@@ -10,12 +10,15 @@
 - [SGAT: Simplicial Graph Attention Network](https://github.com/amblee0306/Simplicial-Graph-Attention-Network)
 
 ## Robustness
+- [Coupling Graph Neural Networks with Fractional Order Continuous Dynamics: A Robustness Study](https://github.com/zknus/AAAI2024-FROND-Robustness)
 - [Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach](https://github.com/zknus/NeurIPS-2023-HANG-Robustness)
 - [On the Robustness of Graph Neural Diffusion to Topology Perturbations](https://github.com/zknus/Robustness-of-Graph-Neural-Diffusion)
 - [Stable Neural ODE With Lyapunov-Stable Equilibrium Points For Defending Against Adversarial Attacks](https://github.com/kangqiyu/SODEF)
 - [Error-Correcting Output Codes With Ensemble Diversity For Robust Learning In Neural Networks](https://gitlab.com/songy0123/error-correcting-neural-network)
 
 ## Perception
+- [DistilVPR: Cross-Modal Knowledge Distillation For Visual Place Recognition](https://github.com/sijieaaa/DistilVPR)
+- [PosDiffNet: Positional Neural Diffusion For Point Cloud Registration In A Large Field Of View With Perturbations](https://github.com/AI-IT-AVs/PosDiffNet)
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
 - [HypLiLoc: Towards Effective LiDAR Pose Regression With Hyperbolic Fusion](https://github.com/sijieaaa/HypLiLoc)
 - [RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments](https://github.com/sijieaaa/RobustLoc)
