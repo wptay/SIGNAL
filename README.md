@@ -3,6 +3,7 @@
 [SIGNAL Webpage](https://wptay.github.io/index.html)
 
 ## Graph Neural Networks
+- [Unleashing the Potential of Fractional Calculus in Graph Neural Networks with FROND](https://github.com/zknus/ICLR2024-FROND)
 - [Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks](https://github.com/amblee0306/JSGNN_Mixed_Space_GNN)
 - [Graph Neural Convection-Diffusion With Heterophily](https://github.com/zknus/Graph-Diffusion-CDE)
 - [Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks](https://github.com/zknus/Hamiltonian-GNN)
