@@ -27,7 +27,7 @@
 - [Image Patch-Matching With Graph-Based Learning In Street Scenes](https://github.com/AI-IT-AVs/Landmark_patch_datasets)
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
-## Others
+## Information Processing
 - [Identifying Infection Sources And Regions In Large Networks](https://github.com/wptay/infection-source)
 - [How To Identify An Infection Source With Limited Observations](https://github.com/wptay/infection-source)
 
