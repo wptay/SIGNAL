@@ -20,6 +20,7 @@
 - [Error-Correcting Output Codes With Ensemble Diversity For Robust Learning In Neural Networks](https://gitlab.com/songy0123/error-correcting-neural-network)
 
 ## Perception
+- [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://github.com/sijieaaa/PRFusion)
 - [DistilVPR: Cross-Modal Knowledge Distillation For Visual Place Recognition](https://github.com/sijieaaa/DistilVPR)
 - [PosDiffNet: Positional Neural Diffusion For Point Cloud Registration In A Large Field Of View With Perturbations](https://github.com/AI-IT-AVs/PosDiffNet)
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
