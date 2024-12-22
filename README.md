@@ -3,10 +3,13 @@
 [SIGNAL Webpage](https://wptay.github.io/index.html)
 
 ## Graph Neural Networks
+- [Neural variable-order fractional differential equation networks](https://github.com/cuiwjTech/AAAI2025_NvoFDE)
+- [Efficient training of neural fractional-order differential equation via adjoint backpropagation](https://github.com/kangqiyu/torchfde)
 - [Distributed-Order Fractional Graph Operating Network](https://github.com/zknus/NeurIPS-2024-DRAGON)
 - [Graph Neural Networks with a Distribution of Parametrized Graphs](https://github.com/amblee0306/EMGNN)
 - [Unleashing the Potential of Fractional Calculus in Graph Neural Networks with FROND](https://github.com/zknus/ICLR2024-FROND)
 - [Node-Specific Space Selection via Localized Geometric Hyperbolicity in Graph Neural Networks](https://github.com/amblee0306/JSGNN_Mixed_Space_GNN)
+- [Heterogeneous graph adaptive flow network](https://github.com/AnonymizedC/HetaFlow)
 - [Graph Neural Convection-Diffusion With Heterophily](https://github.com/zknus/Graph-Diffusion-CDE)
 - [Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks](https://github.com/zknus/Hamiltonian-GNN)
 - [Leveraging Label Non-Uniformity For Node Classification In Graph Neural Networks](https://github.com/amblee0306/label-non-uniformity-gnn)
