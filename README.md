@@ -3,6 +3,7 @@
 [SIGNAL Webpage](https://wptay.github.io/index.html)
 
 ## Graph Neural Networks
+- [Rethinking graph neural networks from a geometric perspective of node features](https://github.com/YananZhao0630/M-AE-M-AEN)
 - [Neural variable-order fractional differential equation networks](https://github.com/cuiwjTech/AAAI2025_NvoFDE)
 - [Efficient training of neural fractional-order differential equation via adjoint backpropagation](https://github.com/kangqiyu/torchfde)
 - [Distributed-Order Fractional Graph Operating Network](https://github.com/zknus/NeurIPS-2024-DRAGON)
@@ -32,7 +33,8 @@
 - [Image Patch-Matching With Graph-Based Learning In Street Scenes](https://github.com/AI-IT-AVs/Landmark_patch_datasets)
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
-## Information Processing
+## Information and Signal Processing
+- [A graph signal processing perspective of network multiple hypothesis testing with false discovery rate control](https://github.com/xcjian/GGSP-detection)
 - [Identifying Infection Sources And Regions In Large Networks](https://github.com/wptay/infection-source)
 - [How To Identify An Infection Source With Limited Observations](https://github.com/wptay/infection-source)
 
