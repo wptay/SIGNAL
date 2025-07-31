@@ -24,8 +24,9 @@
 - [Error-Correcting Output Codes With Ensemble Diversity For Robust Learning In Neural Networks](https://gitlab.com/songy0123/error-correcting-neural-network)
 
 ## Perception
-- [Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs](https://github.com/sijieaaa/AGPlace.git)
-- [SSViT: Modulo High Dynamic Range Video Reconstruction via Selective Spatiotemporal Vision Transformer](https://github.com/geng23366272/folded-HDR-video-reconstruction.git)
+- [UAVScenes: A Multi‑Modal Dataset for UAVs](https://github.com/sijieaaa/UAVScenes)
+- [Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs](https://github.com/sijieaaa/AGPlace)
+- [SSViT: Modulo High Dynamic Range Video Reconstruction via Selective Spatiotemporal Vision Transformer](https://github.com/geng23366272/folded-HDR-video-reconstruction)
 - [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://github.com/sijieaaa/PRFusion)
 - [DistilVPR: Cross-Modal Knowledge Distillation For Visual Place Recognition](https://github.com/sijieaaa/DistilVPR)
 - [PosDiffNet: Positional Neural Diffusion For Point Cloud Registration In A Large Field Of View With Perturbations](https://github.com/AI-IT-AVs/PosDiffNet)
