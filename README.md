@@ -4,6 +4,7 @@
 
 ## Graph Neural Networks
 - [Personalized Subgraph Federated Learning with Sheaf Collaboration](https://github.com/CarrieWFF/FedSheafHN)
+- [Graph Distributional Signals for Regularization in Graph Neural Networks](https://github.com/YananZhao0630/Graph-Distributional-Signals-for-Regularization-in-GNNs)
 - [Rethinking graph neural networks from a geometric perspective of node features](https://github.com/YananZhao0630/M-AE-M-AEN)
 - [Neural variable-order fractional differential equation networks](https://github.com/cuiwjTech/AAAI2025_NvoFDE)
 - [Efficient training of neural fractional-order differential equation via adjoint backpropagation](https://github.com/kangqiyu/torchfde)
