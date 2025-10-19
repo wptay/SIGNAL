@@ -39,7 +39,8 @@
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
 ## Information and Signal Processing
-- [A graph signal processing perspective of network multiple hypothesis testing with false discovery rate control](https://github.com/xcjian/GGSP-detection)
+- [A Graph Signal Processing Perspective Of Network Multiple Hypothesis Testing With False Discovery Rate Control](https://github.com/xcjian/GGSP-detection)
+- [Kernel Based Reconstruction For Generalized Graph Signal Processing](https://github.com/xcjian/GGSP-KRR)
 - [Identifying Infection Sources And Regions In Large Networks](https://github.com/wptay/infection-source)
 - [How To Identify An Infection Source With Limited Observations](https://github.com/wptay/infection-source)
 
