@@ -39,6 +39,7 @@
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
 ## Information and Signal Processing
+- [Conformal Prediction for Multi-Source Detection on a Network](https://github.com/xcjian/Conformalized-Network-Source-Detection)
 - [A Graph Signal Processing Perspective Of Network Multiple Hypothesis Testing With False Discovery Rate Control](https://github.com/xcjian/GGSP-detection)
 - [Kernel Based Reconstruction For Generalized Graph Signal Processing](https://github.com/xcjian/GGSP-KRR)
 - [Identifying Infection Sources And Regions In Large Networks](https://github.com/wptay/infection-source)
