@@ -3,6 +3,7 @@
 [SIGNAL Webpage](https://wptay.github.io/index.html)
 
 ## Graph Neural Networks
+- [Neural Fractional Attention Differential Equations](https://github.com/cuiwjTech/NeurIPS2025_FADE)
 - [Personalized Subgraph Federated Learning with Sheaf Collaboration](https://github.com/CarrieWFF/FedSheafHN)
 - [Graph Distributional Signals for Regularization in Graph Neural Networks](https://github.com/YananZhao0630/Graph-Distributional-Signals-for-Regularization-in-GNNs)
 - [Rethinking graph neural networks from a geometric perspective of node features](https://github.com/YananZhao0630/M-AE-M-AEN)
@@ -28,7 +29,7 @@
 ## Perception
 - [UAVScenes: A Multi‑Modal Dataset for UAVs](https://github.com/sijieaaa/UAVScenes)
 - [Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs](https://github.com/sijieaaa/AGPlace)
-- [SSViT: Modulo High Dynamic Range Video Reconstruction via Selective Spatiotemporal Vision Transformer](https://github.com/geng23366272/folded-HDR-video-reconstruction)
+- [Modulo Video Recovery via Selective Spatiotemporal Vision Transformer](https://github.com/geng23366272/folded-HDR-video-reconstruction)
 - [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://github.com/sijieaaa/PRFusion)
 - [DistilVPR: Cross-Modal Knowledge Distillation For Visual Place Recognition](https://github.com/sijieaaa/DistilVPR)
 - [PosDiffNet: Positional Neural Diffusion For Point Cloud Registration In A Large Field Of View With Perturbations](https://github.com/AI-IT-AVs/PosDiffNet)
@@ -39,6 +40,7 @@
 - [Building Facade Parsing R-CNN](https://github.com/sijieaaa/Oxford-RobotCar-Facade)
 
 ## Information and Signal Processing
+- [Hierarchical Information Embeddings with Neural ODEs for Personalized Federated Learning](https://github.com/AI-IT-AVs/FedNODE)
 - [Conformal Prediction for Multi-Source Detection on a Network](https://github.com/xcjian/Conformalized-Network-Source-Detection)
 - [A Graph Signal Processing Perspective Of Network Multiple Hypothesis Testing With False Discovery Rate Control](https://github.com/xcjian/GGSP-detection)
 - [Kernel Based Reconstruction For Generalized Graph Signal Processing](https://github.com/xcjian/GGSP-KRR)
