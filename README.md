@@ -32,6 +32,7 @@
 - [Modulo Video Recovery via Selective Spatiotemporal Vision Transformer](https://github.com/geng23366272/folded-HDR-video-reconstruction)
 - [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://github.com/sijieaaa/PRFusion)
 - [DistilVPR: Cross-Modal Knowledge Distillation For Visual Place Recognition](https://github.com/sijieaaa/DistilVPR)
+- [PointDifformer: Robust Point Cloud Registration With Neural Diffusion And Transformer](https://github.com/AI-IT-AVs/PointDifformer)
 - [PosDiffNet: Positional Neural Diffusion For Point Cloud Registration In A Large Field Of View With Perturbations](https://github.com/AI-IT-AVs/PosDiffNet)
 - [RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://github.com/AI-IT-AVs/RobustMat)
 - [HypLiLoc: Towards Effective LiDAR Pose Regression With Hyperbolic Fusion](https://github.com/sijieaaa/HypLiLoc)
